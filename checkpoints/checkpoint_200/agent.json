@@ -1,0 +1,1 @@
+{"input_dims": [100], "n_action": 2, "history_len": 10, "alpha": 0.0001, "beta": 0.0001, "gamma": 0.99, "tau": 0.005, "max_exp_size": 1000000, "noise": 1e-06, "fc_dims": [256, 512, 256], "batch_size": 128, "scale": 2, "chkpt_dir": "./checkpoints"}

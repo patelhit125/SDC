@@ -1,0 +1,11 @@
+CONFIG = {
+	'EPISODES' : 300, #100
+	'BATCH_SIZE': 128,
+	'TB_LOG': 'LOG',
+	'SAVE_DATA': 100, #50 | 20
+	'SAVE_BEST_MODEL': False,
+	'TRAIN_ACT': 4,
+	'UPDATE_NET': 1000,
+	'RECORD_VIDEO' : 2500,
+	'FPS' : 10
+}
